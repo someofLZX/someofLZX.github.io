@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 刘梓欣
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Liu Zi Xin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zi Xin
+last_name: Liu
 
 # Status emoji
 status:
@@ -17,73 +17,73 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate in ecological science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Chinese Academy of Sciences
+    url: https://www.isa.ac.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ruminant nutrition, dairy science, feed additives, and multi-omics applications.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Ruminant nutrition
+  - Dairy science
+  - Multi-omics applications
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD candidate in Ecological Science
+      institution: University of Chinese Academy of Sciences
+      year: 2020-
+    - course: Master's degree in preventive veterinary medicine
+      institution: China Agricultural University
+      year: 2018-2020
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Bachelor's degree in Veterinary Medicine
+      year: 2014-2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: RStudio
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
+        icon: RStudio
+        icon_pack: devicon
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: SPSS
         description: ''
         percent: 40
-        icon: database
-        icon_pack: fas
+        icon: SPSS
+        icon_pack: devicon
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Boxing
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: boxing-glove
         icon_pack: fas
-      - name: Cats
+      - name: Badminton
         description: ''
         percent: 100
-        icon: cat
+        icon: shuttlecock
         icon_pack: fas
-      - name: Photography
+      - name: Tricycle
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: Tricycle
         icon_pack: fas
 
 # Social/Academic Networking
