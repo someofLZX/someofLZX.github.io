@@ -42,8 +42,8 @@ education:
     - course: Master's degree in preventive veterinary medicine
       institution: China Agricultural University
       year: 2018-2020
-    - course: BSc in Artificial Intelligence
-      institution: Bachelor's degree in Veterinary Medicine
+    - course: Bachelor's degree in Vetweinary Medicine
+      institution: Northeast Forest University
       year: 2014-2018
 
 # Skills
@@ -58,12 +58,12 @@ skills:
         icon_pack: devicon
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 95
         icon: chart-line
         icon_pack: fas
       - name: SPSS
         description: ''
-        percent: 40
+        percent: 60
         icon: SPSS
         icon_pack: devicon
   - name: Hobbies
@@ -73,18 +73,18 @@ skills:
       - name: Boxing
         description: ''
         percent: 80
-        icon: boxing-glove
-        icon_pack: fas
+        icon: :boxing_glove:
+        icon_pack: emoji
       - name: Badminton
         description: ''
         percent: 80
-        icon: shuttlecock
-        icon_pack: fas
+        icon: :badminton:
+        icon_pack: emoji
       - name: Tricycle
         description: ''
         percent: 60
-        icon: Tricycle
-        icon_pack: fas
+        icon: :bike:
+        icon_pack: emoji
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,7 +94,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: blog
+  - icon: square-rss
     icon_pack: fab
     link: https://twocanis.github.io/
     label: Subscribe my blog
