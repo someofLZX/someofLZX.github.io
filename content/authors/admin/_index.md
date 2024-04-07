@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD candidate in Ecological Science
       institution: University of Chinese Academy of Sciences
-      year: 2020-
+      year: 2020-now
     - course: Master's degree in preventive veterinary medicine
       institution: China Agricultural University
       year: 2018-2020
@@ -72,17 +72,17 @@ skills:
     items:
       - name: Boxing
         description: ''
-        percent: 60
+        percent: 80
         icon: boxing-glove
         icon_pack: fas
       - name: Badminton
         description: ''
-        percent: 100
+        percent: 80
         icon: shuttlecock
         icon_pack: fas
       - name: Tricycle
         description: ''
-        percent: 80
+        percent: 60
         icon: Tricycle
         icon_pack: fas
 
@@ -94,31 +94,28 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: blog
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://twocanis.github.io/
+    label: Subscribe my blog
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Liu-Zixin
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/someofLZX
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/个人简历.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, my name is Zixin Liu and I am a PhD candidate in the Ruminant Nutrition Laboratory of the Institute of Subtropical Agriculture, Chinese Academy of Sciences (CAS). My research interests mainly include ruminant nutrition, dairy science, application of plant additives in livestock, and multi-omics data analysis.
 {style="text-align: justify;"}
