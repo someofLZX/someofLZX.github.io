@@ -65,7 +65,7 @@ skills:
         description: ''
         percent: 60
         icon: dna
-        icon_pack: ai
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -78,7 +78,7 @@ skills:
       - name: Badminton
         description: ''
         percent: 80
-        icon: Badminton Equipment
+        icon: badminton
         icon_pack: custom
       - name: Tricycle
         description: ''
