@@ -54,8 +54,8 @@ skills:
       - name: RStudio
         description: ''
         percent: 80
-        icon: RStudio
-        icon_pack: devicon
+        icon: :computer:
+        icon_pack: emoji
       - name: Data Science
         description: ''
         percent: 95
@@ -65,7 +65,7 @@ skills:
         description: ''
         percent: 60
         icon: SPSS
-        icon_pack: devicon
+        icon_pack: ai
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
