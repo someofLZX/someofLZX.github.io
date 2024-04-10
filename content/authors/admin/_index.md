@@ -39,7 +39,7 @@ education:
     - course: PhD candidate in Ecological Science
       institution: University of Chinese Academy of Sciences
       year: 2020-now
-    - course: Master's degree in preventive veterinary medicine
+    - course: Master's degree in Preventive Veterinary Medicine
       institution: China Agricultural University
       year: 2018-2020
     - course: Bachelor's degree in Veterinary Medicine
@@ -54,17 +54,17 @@ skills:
       - name: RStudio
         description: ''
         percent: 80
-        icon: computer
-        icon_pack: emoji
+        icon: r
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 95
         icon: chart-line
         icon_pack: fas
-      - name: SPSS
+      - name: Molecular Biology
         description: ''
         percent: 60
-        icon: SPSS
+        icon: dna
         icon_pack: ai
   - name: Hobbies
     color: '#eeac02'
@@ -73,18 +73,18 @@ skills:
       - name: Boxing
         description: ''
         percent: 80
-        icon: boxing_glove
-        icon_pack: emoji
+        icon: hand-back-fist
+        icon_pack: fas
       - name: Badminton
         description: ''
         percent: 80
-        icon: badminton
-        icon_pack: emoji
+        icon: Badminton Equipment
+        icon_pack: custom
       - name: Tricycle
         description: ''
         percent: 60
-        icon: bike
-        icon_pack: emoji
+        icon: person-biking
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
