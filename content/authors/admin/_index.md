@@ -54,7 +54,7 @@ skills:
       - name: RStudio
         description: ''
         percent: 80
-        icon: :computer:
+        icon: computer
         icon_pack: emoji
       - name: Data Science
         description: ''
@@ -73,12 +73,12 @@ skills:
       - name: Boxing
         description: ''
         percent: 80
-        icon: :boxing_glove:
+        icon: boxing_glove
         icon_pack: emoji
       - name: Badminton
         description: ''
         percent: 80
-        icon: :badminton:
+        icon: badminton
         icon_pack: emoji
       - name: Tricycle
         description: ''
