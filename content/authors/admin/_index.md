@@ -95,7 +95,7 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: square-rss
-    icon_pack: fab
+    icon_pack: fas
     link: https://twocanis.github.io/
     label: Subscribe my blog
     display:
