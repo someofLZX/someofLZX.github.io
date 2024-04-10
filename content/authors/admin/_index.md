@@ -75,11 +75,11 @@ skills:
         percent: 80
         icon: hand-back-fist
         icon_pack: fas
-      - name: Badminton
+      - name: fitness
         description: ''
         percent: 80
-        icon: badminton
-        icon_pack: custom
+        icon: dumbbell
+        icon_pack: fas
       - name: Tricycle
         description: ''
         percent: 60
