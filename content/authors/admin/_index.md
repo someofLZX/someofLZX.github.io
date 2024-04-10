@@ -63,7 +63,7 @@ skills:
         icon_pack: fas
       - name: Molecular Biology
         description: ''
-        percent: 60
+        percent: 85
         icon: dna
         icon_pack: fas
   - name: Hobbies
