@@ -83,7 +83,7 @@ skills:
       - name: Tricycle
         description: ''
         percent: 60
-        icon: :bike:
+        icon: bike
         icon_pack: emoji
 
 # Social/Academic Networking
