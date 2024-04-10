@@ -42,7 +42,7 @@ education:
     - course: Master's degree in preventive veterinary medicine
       institution: China Agricultural University
       year: 2018-2020
-    - course: Bachelor's degree in Vetweinary Medicine
+    - course: Bachelor's degree in Veterinary Medicine
       institution: Northeast Forest University
       year: 2014-2018
 
