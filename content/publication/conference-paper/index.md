@@ -70,12 +70,4 @@ image:
 #slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
 Click [**here**](https://www.frontiersin.org/articles/10.3389/fvets.2022.848912/full) to view the full article.
