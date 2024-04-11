@@ -9,7 +9,7 @@ authors:
 
 
 date: '2022-04-04T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.3390/ani14030407'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-01-26T00:00:00Z'
