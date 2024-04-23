@@ -5,7 +5,7 @@ title: 'Metabolic Changes in Serum and Milk of Holstein Cows in Their First to F
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Liu Zixin
 
 
 date: '2022-04-04T00:00:00Z'
@@ -70,4 +70,4 @@ image:
 #slides: example
 ---
 
-Click [**here**](https://www.frontiersin.org/articles/10.3389/fvets.2022.848912/full) to view the full article.
+Click [**here**](https://www.mdpi.com/2076-2615/14/3/407) to view the full article.
