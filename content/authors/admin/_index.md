@@ -10,7 +10,7 @@ first_name: Zi Xin
 last_name: Liu
 
 # Status emoji
-status:
+status: working
   icon: ☕️
 
 # Is this the primary user of the site?
