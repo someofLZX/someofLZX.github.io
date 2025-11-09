@@ -30,7 +30,7 @@ defaults:
 jobs:
   # 构建作业
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     env:
       HUGO_VERSION: 0.120.2
     steps:
