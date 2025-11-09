@@ -114,7 +114,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/个人简历.pdf
+    link: uploads/刘梓欣-个人简历-中文版.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
