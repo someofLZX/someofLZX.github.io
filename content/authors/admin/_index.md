@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD candidate in Ecological Science
       institution: University of Chinese Academy of Sciences
-      year: 2020-now
+      year: 2020-2024
     - course: Master's degree in Preventive Veterinary Medicine
       institution: China Agricultural University
       year: 2018-2020
